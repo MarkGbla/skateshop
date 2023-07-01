@@ -15,5 +15,5 @@ CREATE TABLE `stores` (
 	`userId` varchar(191) NOT NULL,
 	`name` varchar(191) NOT NULL,
 	`description` text,
-	`slug` varchar)
+	`slug` text)
 	;
